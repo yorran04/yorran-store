@@ -11,22 +11,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": {
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Capa_para_Facebook_Calcados_Masculinos_Estilo_Minimalista_em_Cinza_Preto.webp",
         "image_overlay_opacity": 10,
