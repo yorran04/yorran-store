@@ -13,6 +13,7 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/Capa_para_Facebook_Calcados_Masculinos_Estilo_Minimalista_em_Cinza_Preto.webp",
+        "image_2": "shopify:\/\/shop_images\/Banner_para_Site_Looks_70_Off_Preto_e_Branco_Moderno_Simples.webp",
         "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "bottom-center",

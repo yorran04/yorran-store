@@ -38,7 +38,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        "header{background-color:black;}"
       ],
       "settings": {
         "logo_position": "middle-left",
