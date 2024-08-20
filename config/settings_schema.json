@@ -1465,5 +1465,21 @@
         "default": "scheme-1"
       }
     ]
+  },
+  {
+    "name": "Colorido",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Texto"
+
+      },
+      {
+        "type": "color",
+        "id": "color_primary_text",
+        "label": "Cor primaria do texto",
+        "default":"#0c33b7"
+      }
+    ]
   }
 ]
